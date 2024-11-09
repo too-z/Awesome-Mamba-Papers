@@ -430,6 +430,8 @@ Last update on
 
 ## Reinforcement Learning
 
+(Arxiv 24.08.20) Decision MetaMamba: Integrating Multi-Modal Input Token Mixer into Mamba-Based Decision Models [Paper](http://www.arxiv.org/abs/2408.10517)
+
 (Arxiv 24.03.29) Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces [Paper](https://arxiv.org/abs/2403.19925) 
 
 (Arxiv 24.05.20) Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning? [Paper](https://arxiv.org/abs/2405.12094) 
